@@ -1,4 +1,4 @@
-# VM - 16-bit CPU Simulator
+# QZ16 - 16-bit CPU Simulator
 
 A minimal 16-bit CPU simulator written in C for educational purposes. This project implements a simple fetch-decode-execute pipeline with a custom ISA.
 
